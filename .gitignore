@@ -1,3 +1,6 @@
+test/bignum-test
+test/eccrypt-test
+
 # Object files
 *.o
 *.ko
